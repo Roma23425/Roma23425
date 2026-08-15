@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Roman
 
-<!--
-**Roma23425/Roma23425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me:
 
-Here are some ideas to get you started:
+**🌱 Currently learning programming**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Building my own projects**
+
+**🎯 Always learning and improving**
+
+## 🛠️ Skills
+
+- `HTML`
+
+- `CSS`
+
+- `JavaScript`
+
+- `Python`
+
+📊 GitHub
+
+**Code is not just text — it's a way to create something new.**
